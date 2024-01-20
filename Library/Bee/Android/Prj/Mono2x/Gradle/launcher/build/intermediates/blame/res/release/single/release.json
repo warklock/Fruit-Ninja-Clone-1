@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "B:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]

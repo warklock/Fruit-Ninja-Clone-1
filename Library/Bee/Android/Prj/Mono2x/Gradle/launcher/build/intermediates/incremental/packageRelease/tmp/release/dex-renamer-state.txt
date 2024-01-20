@@ -1,0 +1,4 @@
+#Sat Jan 20 10:14:24 ICT 2024
+base.0=B\:\\FNC\\Fruit Ninja Clone\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
